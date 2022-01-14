@@ -3,7 +3,7 @@
 
 ## 1- Veri Tipleri
 
--Integer
+-Integer\n
 -String
 -Float
 -Turple
