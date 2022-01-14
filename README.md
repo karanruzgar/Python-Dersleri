@@ -1,3 +1,3 @@
 # Python-Taktikleri
 
-Buraya arada taktik falan eklerim işte talıkıl öyle
+taktikler klasörüne arada taktik falan eklerim işte takılın öyle
