@@ -6,6 +6,6 @@ Diyelim ki for döngüsü yapcaksın ama 2 tane listeye yapman lazım ama bunu t
 liste1 = ["Bir","İki", "Üç", "Dört", "Beş"]
 liste2 = ["1", "2", "3", "4", "5"]
 
-for l1, l2 in zip(liste1, liste2):
+for l1, l2 in <mark>zip(liste1, liste2)</mark>:
     print(f"{l1} - {l2}")
 ```
