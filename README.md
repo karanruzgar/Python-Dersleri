@@ -9,8 +9,9 @@
 <a href="#c--float"><li>Float</li></a>
 <a href="#d--list"><li>List</li></a>
 <a href="#e--dictionary"><li>Dictionary</li></a>
-<a href="#f--turple"><li>Turple</li></a>
-<a href="#g--boolean"><li>Boolean</li></a>
+<a href="#f--tuple"><li>Tuple</li></a>
+<a href="#g--set"><li>Set</li></a>
+<a href="#h--boolean"><li>Boolean</li></a>
 
 ### A- Integer
 Pythonda en çok karşımıza çıkacak veri tiplerinden biri olan integer veri tipi tam sayıları içinde barındırabilir.
@@ -62,6 +63,28 @@ Dictionary veri tipi içinde birden çok veriyi tutabilir. List veri tipinden fa
 #### Örnek:
 ```python
 obje = {yazi:"Hello World!", sayi:3}
+print(obje)
+print(type(obje))
+```
+
+### F- Tuple
+Tuple veri tipi list veri tipine çok benzer. İçerisinde birden çok elemanı barındırabilir.
+> Oluşturmak için <code>( )</code> sembolleri kullanılır.
+
+#### Örnek:
+```python
+obje = ("Hello", "World")
+print(obje)
+print(type(obje))
+```
+
+### G- Set
+Set veri tipi dictionary ile list veri tipinin karışımı gibidir. içerisinde birden çok eleman barındırabilir.
+> Oluşturmak için <code>{ }</code> sembolleri kullanılır.
+
+#### Örnek:
+```python
+obje = {"Hello World!", 123}
 print(obje)
 print(type(obje))
 ```
