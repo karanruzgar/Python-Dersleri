@@ -33,4 +33,4 @@ print(obje)
 print(type(obje))
 ```
 
->>To be continued..
+####Devamı yakında...
