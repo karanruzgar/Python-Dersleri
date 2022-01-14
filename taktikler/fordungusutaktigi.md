@@ -1,6 +1,6 @@
-For döngüsü yapcaksın ama 2 tane listeye yapman lazım ama bunu tek for döngüsü içinde halletmek istiyorsun işte burada zip() fonksiyonu devreye giriyor. kolayca 2 adet listeyi birleytirip for döngüsü içindeki 2 listeye atabilirsiniz.
+Diyelim ki for döngüsü yapcaksın ama 2 tane listeye yapman lazım ama bunu tek for döngüsü içinde halletmek istiyorsun işte burada zip() fonksiyonu devreye giriyor. kolayca 2 adet listeyi birleytirip for döngüsü içindeki 2 listeye atabilirsiniz.
 
-# Örnek Kullanım
+<h4>Örnek Kullanım</h4>
 
 <code>
 liste1 = ["Bir","İki", "Üç", "Dört", "Beş"]
