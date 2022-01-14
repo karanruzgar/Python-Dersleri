@@ -5,12 +5,12 @@
 
 > Bir nesnenin veri tipini öğrenmek için <code>type()</code> fonksiyonu kullanılabilir.
 <a href="#a--integer"><li>Integer</li></a>
-<a><li>String</li></a>
-<a><li>Float</li></a>
-<a><li>List</li></a>
-<a><li>Dictionary</li></a>
-<a><li>Turple</li></a>
-<a><li>Boolean</li></a>
+<a href="#b--string"><li>String</li></a>
+<a href="#c--float"><li>Float</li></a>
+<a href="#d--list"><li>List</li></a>
+<a href="#e--dictionary"><li>Dictionary</li></a>
+<a href="#f--turple"><li>Turple</li></a>
+<a href="#g--boolean"><li>Boolean</li></a>
 
 ### A- Integer
 Pythonda en çok karşımıza çıkacak veri tiplerinden biri olan integer veri tipi tam sayıları içinde barındırabilir.
