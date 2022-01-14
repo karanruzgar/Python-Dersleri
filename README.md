@@ -4,7 +4,7 @@
 ## 1- Veri Tipleri
 
 > Bir nesnenin veri tipini öğrenmek için <code>type()</code> fonksiyonu kullanılabilir.
-<a href="#"><li>Integer</li></a>
+<a href="#a--integer"><li>Integer</li></a>
 <a><li>String</li></a>
 <a><li>Float</li></a>
 <a><li>List</li></a>
