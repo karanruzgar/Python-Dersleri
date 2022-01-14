@@ -3,7 +3,7 @@
 
 ## 1- Veri Tipleri
 
-> Bir nesnenin veri tipini öğrenmek için <code>type()</code> fonksiyonu kullanılabilir.
+> Bir nesnenin veri tipini öğrenmek için <code>type()</code> fonksiyonu kullanılabilir.<
 <a href="#a--integer"><li>Integer</li></a>
 <a href="#b--string"><li>String</li></a>
 <a href="#c--float"><li>Float</li></a>
