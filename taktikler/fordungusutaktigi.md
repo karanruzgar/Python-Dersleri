@@ -1,4 +1,4 @@
-Diyelim ki for döngüsü yapcaksın ama 2 tane listeye yapman lazım ama bunu tek for döngüsü içinde halletmek istiyorsun işte burada zip() fonksiyonu devreye giriyor. kolayca 2 adet listeyi birleytirip for döngüsü içindeki 2 listeye atabilirsiniz.
+Diyelim ki for döngüsü yapcaksın ama 2 tane listeye yapman lazım ama bunu tek for döngüsü içinde halletmek istiyorsun işte burada zip() fonksiyonu devreye giriyor. kolayca 2 adet listeyi birleytirip for döngüsündeki 2 objeye atabilirsiniz.
 
 <h3>Örnek Kullanım</h3>
 
