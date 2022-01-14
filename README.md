@@ -2,4 +2,10 @@
 
 
 ## 1- Veri Tipleri
->adsaf
+
+-Integer
+-String
+-Float
+-Turple
+-Dictionary
+-List
