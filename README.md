@@ -4,13 +4,13 @@
 ## 1- Veri Tipleri
 
 > Bir nesnenin veri tipini öğrenmek için <code>type()</code> fonksiyonu kullanılabilir.
-<li>Integer</li>
-<li>String</li>
-<li>Float</li>
-<li>List</li>
-<li>Dictionary</li>
-<li>Turple</li>
-<li>Boolean</li>
+<a href="#"><li>Integer</li></a>
+<a><li>String</li></a>
+<a><li>Float</li></a>
+<a><li>List</li></a>
+<a><li>Dictionary</li></a>
+<a><li>Turple</li></a>
+<a><li>Boolean</li></a>
 
 ### A- Integer
 Pythonda en çok karşımıza çıkacak veri tiplerinden biri olan integer veri tipi tam sayıları içinde barındırabilir.
