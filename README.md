@@ -7,9 +7,9 @@
 <li>Integer</li>
 <li>String</li>
 <li>Float</li>
-<li>Turple</li>
-<li>Dictionary</li>
 <li>List</li>
+<li>Dictionary</li>
+<li>Turple</li>
 <li>Boolean</li>
 
 ### A- Integer
@@ -33,4 +33,25 @@ print(obje)
 print(type(obje))
 ```
 
+
+### C- Float
+Noktalı sayıları barındırabilen bu veri tipi integer veri tipine çok benzer.
+
+#### Örnek:
+```python
+obje = 1.5
+print(obje)
+print(type(obje))
+```
+
+### D- List
+List veri tipi birden çok veri tipini aynanda içinde barındırabilir.
+> Oluşturmak için <code>[ ]</code> sembolleri kullanılır.
+
+#### Örnek:
+```python
+obje = ["Hello World!", 2.5, 6]
+print(obje)
+print(type(obje))
+```
 #### Devamı yakında...
