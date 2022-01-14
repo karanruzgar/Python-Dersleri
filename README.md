@@ -24,11 +24,13 @@ print(type(obje))
 
 ### B- String
 Pythonda en çok karşımıza çıkacak veri tiplerinden bir diğeri olan string veri tipi tüm karakterleri içinde barındırabilir.
-> String oluşturulması için karakterlerin başına <code>"</code>,<code>'</code> veya <code>"""</code>
+> String oluşturulması için karakterlerin başına ve sonuna <code>"</code>,<code>'</code> veya <code>"""</code> işaretlerinden biri konulmalıdır.
 
 #### Örnek:
 ```python
-obje = 42
+obje = "Hello World!"
 print(obje)
 print(type(obje))
 ```
+
+>>To be continued..
