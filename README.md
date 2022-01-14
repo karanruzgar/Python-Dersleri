@@ -3,9 +3,9 @@
 
 ## 1- Veri Tipleri
 
--Integer\n
--String
--Float
--Turple
--Dictionary
--List
+>-Integer
+>-String
+>-Float
+>-Turple
+>-Dictionary
+>-List
