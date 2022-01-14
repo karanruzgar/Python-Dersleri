@@ -3,9 +3,9 @@
 
 ## 1- Veri Tipleri
 
-<li>Integer
->-String
->-Float
->-Turple
->-Dictionary
->-List
+<li>Integer</li>
+<li>String</li>
+<li>Float</li>
+<li>Turple</li>
+<li>Dictionary</li>
+<li>List</li>
