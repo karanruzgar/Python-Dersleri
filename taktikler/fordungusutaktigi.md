@@ -2,7 +2,7 @@ Diyelim ki for döngüsü yapcaksın ama 2 tane listeye yapman lazım ama bunu t
 
 <h3>Örnek Kullanım</h3>
 
-```
+```python
 liste1 = ["Bir","İki", "Üç", "Dört", "Beş"]
 liste2 = ["1", "2", "3", "4", "5"]
 
