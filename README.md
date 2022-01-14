@@ -13,7 +13,18 @@
 <li>Boolean</li>
 
 ### A- Integer
-Pythonda en çok karşımıza çıkacak veri tiplerinden biridir olan integer veri tipi tam sayılar ile oluşturulabilir.
+Pythonda en çok karşımıza çıkacak veri tiplerinden biri olan integer veri tipi tam sayıları içinde barındırabilir.
+
+#### Örnek:
+```python
+obje = 42
+print(obje)
+print(type(obje))
+```
+
+### B- String
+Pythonda en çok karşımıza çıkacak veri tiplerinden bir diğeri olan string veri tipi tüm karakterleri içinde barındırabilir.
+> String oluşturulması için karakterlerin başına <code>"</code>,<code>'</code> veya <code>"""</code>
 
 #### Örnek:
 ```python
