@@ -3,7 +3,7 @@
 
 ## 1- Veri Tipleri
 
->-Integer
+<li>Integer
 >-String
 >-Float
 >-Turple
