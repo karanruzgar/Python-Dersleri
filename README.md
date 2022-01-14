@@ -54,4 +54,15 @@ obje = ["Hello World!", 2.5, 6]
 print(obje)
 print(type(obje))
 ```
+
+### E- Dictionary
+Dictionary veri tipi içinde birden çok veriyi tutabilir. List veri tipinden farkı bu veri tipinde içerisindeki verilere ulaşmak için belirlediğin başka kelimeler kullanılır. Ancak verilere erişmeyi birazdan göreceğiz.
+> Oluşturmak için <code>{ }</code> sembolleri kullanılır.
+
+#### Örnek:
+```python
+obje = {yazi:"Hello World!", sayi:3}
+print(obje)
+print(type(obje))
+```
 #### Devamı yakında...
