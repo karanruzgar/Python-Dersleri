@@ -15,3 +15,9 @@
 ### A- Integer
 Pythonda en çok karşımıza çıkacak veri tiplerinden biridir olan integer veri tipi tam sayılar ile oluşturulabilir.
 
+#### Örnek:
+```python
+obje = 42
+print(obje)
+print(type(obje))
+```
